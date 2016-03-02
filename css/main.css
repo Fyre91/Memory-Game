@@ -1,0 +1,26 @@
+#tileContainer {
+    width: 400px;
+}
+
+.numTile {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    float: left;
+    padding: 33px;
+    font-size: 40px;
+    background-color: orange;
+    box-sizing: border-box;
+}
+
+.is-hidden {
+    color: white;
+    text-indent: -9999px; 
+    background-color: white;
+}
+.success {
+    border: 1px solid green;
+    background-color: darkgreen;
+}
